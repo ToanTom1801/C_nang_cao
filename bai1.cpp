@@ -21,6 +21,6 @@ int main()
     if(count == 0){
         cout << n << "chinh la so nguyen to\n";
     }else{
-        cout << n << "khong phai la so nguyen to\n";
+        cout << n <kh phai la so nguyen to\n
     }
 }
